@@ -58,7 +58,7 @@ ollama pull llama3.2
 **Start the interactive tutor:**
 
 ```bash
-python tutor.py
+python interactive_ai_tutor.py
 ```
 
 **Example session:**
